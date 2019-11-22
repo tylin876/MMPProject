@@ -1,0 +1,34 @@
+
+h1{font-family:, serif;
+	text-transform:capitalize;
+   font-size:10px; }
+
+body{
+	font-size: 12px;
+	margin:30px;
+	background-color: #606060;
+}
+
+.attribution{
+	font-size:9px;
+}
+.choice1{
+	font-size: 20px;
+	text-decoration: underline;
+	color: #ffff00 ;
+}
+.choice2{
+	font-size: 20px;
+	text-decoration: underline;
+	color: #ffff00;
+}
+.ENDING1{font-family: Ariel, sans-serif;
+	text-transform: uppercase;
+	color:#ff6ec7;
+	text-decoration: none;
+}
+.ENDING2{font-family: Ariel, sans-serif;
+	text-transform: uppercase;
+	color:#ff6ec7;
+	text-decoration: none;
+}
